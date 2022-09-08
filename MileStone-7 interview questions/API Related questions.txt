@@ -1,0 +1,14 @@
+====================================
+Common interview questions about API
+====================================
+1. What is an API?
+ans: API stands for (Application programming interface)
+API bebohar kora hoy server theke data access korar jonne
+
+2. What are the Http method supported by REST?
+3. Can you get request insted of put to create a resource?
+4. What is diffrence between PUT & POST?
+5. What is JSON?
+
+6. What are the CRUD Operations?
+ans: CRUD Stands for (Create,Read,Update,Delete)

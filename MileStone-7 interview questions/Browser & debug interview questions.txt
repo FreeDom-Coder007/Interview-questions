@@ -1,0 +1,6 @@
+1. What is the diffrence between (alert box) & (customization box)
+2. What are JS Cookies
+3. Diffrence between local Storage & session Storage
+4. What Should you use? Cookie or local Storage & session Storage
+5. 2 Diffrence between DOM vs BOM 
+6. Can you discuss the types of browser api
